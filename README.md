@@ -1,22 +1,13 @@
 
 
 ### Hello👋, I'm Adjohu Desmond  
-### <div align="center">A passionate mobile app and blockchain developer from Ghana, Accra</div>  
+### A passionate mobile app and blockchain developer from Ghana, Accra
   
-
-<div align="center">
-<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="center" style="width: 100%" />
-</div>  
-  
-
 
 
 ### 🌱 I’m currently learning  
--  Node.js, Bloc State Management(flutter), and TDD  
+-  Blockchain and Clean Architecture 
   
-
-
-
 ### ❓ Ask me about anything related to:  
 -  Flutter and related technologies  
   
