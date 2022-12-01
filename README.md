@@ -9,7 +9,7 @@
 -  Blockchain and Clean Architecture 
   
 ### ❓ Ask me about anything related to:  
--  Flutter and related technologies  
+-  Flutter and blockchain  
   
 
 
