@@ -9,8 +9,8 @@ I'm a mobile app developer
 * 🤝  I'm open to collaborating on Flutter projects
 * ⚡  Try new stuffs everyday
 
-<a href="https://www.github.com/DESMOND2716" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DESMOND2716?logo=github&style=for-the-badge&color=ffffff&labelColor=181824" /></a><a href="https://www.twitter.com/27_wednesday" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/A-Desmond" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/A-Desmond?logo=github&style=for-the-badge&color=ffffff&labelColor=181824" /></a><a href="https://www.twitter.com/desmond_adjohu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/27_wednesday?logo=twitter&style=for-the-badge&color=ffffff&labelColor=181824"
 /></a>
 
@@ -30,19 +30,19 @@ src="https://img.shields.io/twitter/follow/27_wednesday?logo=twitter&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/DESMOND2716" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://AdjohuDesmond.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/27_wednesday" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/A-Desmond" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://AdjohuDesmond.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/A-Desmond" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DESMOND2716"><img src="https://github-readme-stats.vercel.app/api?username=DESMOND2716&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="DESMOND2716's GitHub stats" /></a>
+<a href="http://www.github.com/A-Desmond"><img src="https://github-readme-stats.vercel.app/api?username=A-Desmond&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="A-Desmond's GitHub stats" /></a>
 
-<a href="http://www.github.com/DESMOND2716"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DESMOND2716&stroke=14b8a6&background=181824&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+<a href="http://www.github.com/A-Desmond"><img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Desmond&stroke=14b8a6&background=181824&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/DESMOND2716"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DESMOND2716&bg_color=181824&color=14b8a6&line=ffffff&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/A-Desmond"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=A-Desmond&bg_color=181824&color=14b8a6&line=ffffff&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/DESMOND2716" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESMOND2716&langs_count=10&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/A-Desmond" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Desmond&langs_count=10&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
