@@ -11,7 +11,7 @@ I'm a mobile app developer
 
 <a href="https://www.github.com/A-Desmond" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/A-Desmond?logo=github&style=for-the-badge&color=ffffff&labelColor=181824" /></a><a href="https://www.twitter.com/desmond_adjohu" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/27_wednesday?logo=twitter&style=for-the-badge&color=ffffff&labelColor=181824"
+src="https://img.shields.io/twitter/follow/desmond_adjohu?logo=twitter&style=for-the-badge&color=ffffff&labelColor=181824"
 /></a>
 
 ### Skills
