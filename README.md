@@ -5,9 +5,9 @@ I'm a mobile app developer
 --------------------------
 
 * 🌍  I'm based in Ghana, Accra
-* ✉️  You can contact me at [desmondnelson908@gmail.com](mailto:desmondnelson908@gmail.com)
+* ✉️  Contact [desmondnelson908@gmail.com](mailto:desmondnelson908@gmail.com)
 * 🤝  I'm open to collaborating on Flutter projects
-* ⚡  Try new stuffs everyday
+
 
 <a href="https://www.github.com/A-Desmond" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/A-Desmond?logo=github&style=for-the-badge&color=ffffff&labelColor=181824" /></a><a href="https://www.twitter.com/desmond_adjohu" target="_blank" rel="noreferrer"><img
