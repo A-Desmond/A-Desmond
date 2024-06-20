@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Desmond !
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Desmond!
 =================================================================================================================================
 
 I'm a mobile app developer
 --------------------------
 
 * 🌍  I'm based in Ghana, Accra
-* ✉️  Contact [desmondnelson908@gmail.com](mailto:desmondnelson908@gmail.com)
+* ✉️  Contact [desmondnelson908@gmail.com](mailto:desmondadnelson@gmail.com)
 * 🤝  I'm open to collaborating on Flutter projects
 
 
