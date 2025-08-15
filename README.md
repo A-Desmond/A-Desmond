@@ -47,10 +47,6 @@ src="https://img.shields.io/twitter/follow/desmond_adjohu?logo=twitter&style=for
 
 <a href="http://www.github.com/A-Desmond"><img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Desmond&stroke=14b8a6&background=181824&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/A-Desmond"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=A-Desmond&bg_color=181824&color=14b8a6&line=ffffff&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/A-Desmond" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Desmond&langs_count=10&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
